@@ -1,0 +1,7 @@
+
+fp-info-cache
+box
+box.xml
+*.kicad_pcb-bak
+*.bak
+buttonbox.pretty/promicro.kicad_mod
