@@ -1,7 +1,7 @@
 # Freejoy input board
 
 Features:
-- Can be used to convert a TM Cougar Throttle into a USB device, or as a stand-alone button box.
+- Inputs for eg two encoders, eight axes and six shift registers
 - Several boards can be daisy-chained via the 1x5 pin socket J103.
 - Meant to be used with the Freejoy software: <https://github.com/FreeJoy-Team/FreeJoy>
 ----
