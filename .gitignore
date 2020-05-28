@@ -6,3 +6,15 @@ box.xml
 *.bak
 buttonbox.pretty/promicro.kicad_mod
 _autosave-box.kicad_pcb
+gerber.zip
+gerber/box-B_Cu.gbr
+gerber/box-B_Mask.gbr
+gerber/box-B_Paste.gbr
+gerber/box-B_SilkS.gbr
+gerber/box-Edge_Cuts.gbr
+gerber/box-F_Cu.gbr
+gerber/box-F_Mask.gbr
+gerber/box-F_Paste.gbr
+gerber/box-F_SilkS.gbr
+gerber/box-NPTH.drl
+gerber/box-PTH.drl
